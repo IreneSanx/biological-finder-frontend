@@ -1,4 +1,4 @@
-#biological-finder-frontend 
+# biological-finder-frontend 
 
 This is the graphical interface for the deployment of a technology demonstrator that allows the search of information on genes, proteins and diseases in the GenBank, UniProt and OMIM databases, respectively. 
 
